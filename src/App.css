@@ -1,0 +1,13 @@
+.app {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+#input {
+  width: 700px;
+}
+
+.btn-inp {
+  display: flex;
+}
